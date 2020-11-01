@@ -9,11 +9,13 @@ Phishing Page Generator
 * 'apt install git curl php openssh -y'
 * 'git clone git://github.com/itsfuad/laam.git'
 * 'cd laam'
+* 'unzip web.zip'
+* 'chmod +x laam.sh'
 #### > Run : 'bash laam.sh'
 
 ## Single Command :
 '''
-apt update ; apt install git curl php openssh -y ; git clone git://github.com/itsfuad/laam.git ; cd laam ; bash laam.sh
+apt update ; apt install git curl php openssh -y ; git clone git://github.com/itsfuad/laam.git ; cd laam ; unzip web.zip ; chmod +x laam.sh ; bash laam.sh
 '''
 
 
